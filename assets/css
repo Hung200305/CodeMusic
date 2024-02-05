@@ -107,6 +107,7 @@ header h2 {
   justify-content: center;
   background-color: var(--primary-color);
 }
+
 .progress {
   width: 100%;
   -webkit-appearance: none;
